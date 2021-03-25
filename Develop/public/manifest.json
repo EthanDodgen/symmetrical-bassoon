@@ -2,9 +2,13 @@
 {
     "name": "Your Great Site",
     "short_name": "Site 😎",
-    "icons": ,
-    "theme_color": ,
+    "icons": [{
+        "src": "icon-256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      }],
+    "theme_color": "#0f4a73",
     "background_color": "#000000", 
-    "start_url": ,
+    "start_url": "/?homescreen=1",
     "display": 
   }
