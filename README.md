@@ -1,1 +1,11 @@
-# Budget Tracker Starter Code
+# Budget
+
+## Purpose
+Keep track of spending.
+
+## Built With
+* Node.js
+*MongoDB
+*Javascript
+
+
